@@ -15,23 +15,23 @@ PSIΨ Project Management System is an Application that helps in managing various
 *  Xampp 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-#Installation 
-Create a Database with name psi. (Or change DB_DATABASE in .env to the created Database name)
-Code is in folder PSI-main.
-Open the code directory in cmd/terminal.
-Follow commands:
-composer install
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-php artisan serve
+# Installation 
+* Create a Database with name psi. (Or change DB_DATABASE in .env to the created Database name)
+* Code is in folder PSI-main.
+* Open the code directory in cmd/terminal.
+### Follow commands:
+* composer install
+* php artisan key:generate
+* php artisan migrate
+* php artisan db:seed
+* php artisan serve
 
-Open the link in terminal or enter localhost:8000 in browser.
+* Open the link in terminal or enter localhost:8000 in browser.
 
-user login:
+### user login:
 email:test@psi.com
 password:secret
 
-admin login:
+### admin login:
 email:admin@psi.com
 password:admin
