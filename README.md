@@ -9,7 +9,7 @@ PSIΨ Project Management System is an Application that helps in managing various
 * Allows the members of the team to communicate and also allows the leader to post announcements.
 
 
-#Requriments for installation
+# Requriments for installation
 *  PHP version 5.* - 7.4.*
 * Tested with PHP 7.4.9
 *  Xampp 
